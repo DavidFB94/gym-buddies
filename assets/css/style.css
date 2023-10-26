@@ -5,6 +5,16 @@
     box-sizing: border-box;
 }
 
+/* General Styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
+    color: black;
+    
+}
+
 /* Header */
 header {
     background-color: whitesmoke;
@@ -13,6 +23,8 @@ header {
 /* Main */
 main {
     background-color: lightblue;
+    /* Make main element push footer down and use surplus space */
+    flex: 1 0 auto;
 }
 
 /* Footer */
