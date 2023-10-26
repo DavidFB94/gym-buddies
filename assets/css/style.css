@@ -24,6 +24,10 @@ header {
     background-color: whitesmoke;
 }
 
+h1 {
+    font-family: 'Moul', sans-serif;
+}
+
 /* Main */
 main {
     background-color: lightblue;
