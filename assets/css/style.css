@@ -39,6 +39,22 @@ h1 {
     color: black;
 }
 
+#menu {
+    list-style-type: none;
+    letter-spacing: 4px;
+    font-size: 110%;
+    color: gray;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+    color: gray;
+}
+
+.active {
+    border-bottom: 1px solid gray;
+}
+
 /* Main */
 main {
     background-color: lightblue;
