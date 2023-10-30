@@ -85,7 +85,6 @@ nav {
 
 /* Main */
 main {
-    background-color: lightblue;
     /* Make main element push footer down and use surplus space */
     flex: 1 0 auto;
     margin-top: 58px;
@@ -96,6 +95,27 @@ main {
     width: 100%;
     background: url("../images/hero-image.jpg") no-repeat center center/cover;
     position: relative;
+}
+
+/* Join us styles */
+#join-us {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.text-boxes {
+    border: 0.5px solid greenyellow;
+    padding: 10px;
+}
+
+#information {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 /* Footer */
@@ -147,6 +167,11 @@ main {
     main {
         /* Push main content down to accomodate larger header*/
         margin-top: 75px;
+    }
+
+    /* Join us */
+    #information {
+        margin: 40px;
     }
 }
 
