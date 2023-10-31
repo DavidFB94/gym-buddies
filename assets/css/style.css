@@ -116,6 +116,7 @@ main {
 #reasons {
     margin: 5px 5px;
     font-weight: 600;
+    align-self: center;
 }
 
 .text-boxes {
@@ -131,6 +132,15 @@ main {
     flex-wrap: wrap;
     gap: 10px;
     margin: 0px 10px;
+}
+
+/* For keeping text boxes at same size at different screen sizes */
+#description {
+    width: 400px;
+}
+
+#types-times {
+    width: 400px;
 }
 
 /* Footer */
@@ -185,8 +195,8 @@ main {
     }
 
     /* Join us */
-    #information {
-        margin: 40px;
+    #reasons {
+        min-width: 700px;
     }
 }
 
