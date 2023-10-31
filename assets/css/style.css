@@ -146,10 +146,12 @@ main {
 /* Footer */
 #social-networks {
     text-align: center;
-    padding: 20px 0;
+    padding: 10px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: whitesmoke;
+    margin-top: 10px;
 }
 
 #social-networks i {
