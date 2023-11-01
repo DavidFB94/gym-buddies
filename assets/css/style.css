@@ -143,6 +143,16 @@ main {
     width: 400px;
 }
 
+
+/* Pictures */
+#pictures img {
+    width: 100%;
+}
+
+#pictures {
+    line-height: 0;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
