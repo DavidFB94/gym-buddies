@@ -19,6 +19,10 @@ body {
     
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: whitesmoke;
@@ -145,12 +149,14 @@ main {
 
 
 /* Pictures */
-#pictures img {
-    width: 100%;
+#pictures {
+    padding-top: 20px;
+    line-height: 0px;
 }
 
-#pictures {
-    line-height: 0;
+#pictures img {
+    width: 100%;
+    margin: 1px 0px;
 }
 
 /* Footer */
@@ -210,11 +216,23 @@ main {
     #reasons {
         min-width: 700px;
     }
+
+    /* Pictures */
+    #pictures {
+        column-count: 2;
+        padding: 5px;
+    }
 }
 
 /* Media query: laptops and larger (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid gray;
+    }
+
+    /* Pictures */
+    #pictures {
+        column-count: 3;
+        padding: 5px;
     }
 }
