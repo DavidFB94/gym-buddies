@@ -99,7 +99,7 @@ nav {
 main {
     /* Make main element push footer down and use surplus space */
     flex: 1 0 auto;
-    margin-top: 58px;
+    margin-top: 75px;
 }
 
 #hero-image {
@@ -148,15 +148,27 @@ main {
 }
 
 
-/* Pictures */
+/* Pictures page */
 #pictures {
-    padding-top: 20px;
+    padding-top: 5px;
     line-height: 0px;
 }
 
 #pictures img {
     width: 100%;
     margin: 1px 0px;
+}
+
+/* Sign-up page */
+#sign-up {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#signup-form {
+    text-align: center;
 }
 
 /* Footer */
