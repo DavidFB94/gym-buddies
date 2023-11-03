@@ -110,13 +110,25 @@ main {
 }
 
 /* Calendar styles */
-#calendar {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
+.center-heading {
+    text-align: center;
 }
-table, th, td {
-    border: 1px solid rgb(230, 230, 230);
+
+#schedule {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.days-boxes {
+    width: 120px;
+    height: 120px;
+    margin: 2px;
+    padding: 2px;
+    background-color: rgb(230, 230, 230);
 }
 
 /* Join us styles */
