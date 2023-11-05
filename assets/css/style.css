@@ -109,9 +109,36 @@ main {
     position: relative;
 }
 
-/* Calendar styles */
+
+/* Information styles */
+.text-boxes {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(230, 230, 230);
+    box-shadow: 1.5px 1.5px;
+    width: 400px;
+}
+
+.information {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 10px;
+    margin: 30px 10px;
+}
+
+#reasons {
+    margin: 5px 5px;
+    font-weight: 600;
+}
+
+/* About styles */
 .center-heading {
     text-align: center;
+    margin: 10px 0 20px
 }
 
 #schedule {
@@ -130,45 +157,6 @@ main {
     padding: 2px;
     background-color: rgb(230, 230, 230);
 }
-
-/* Join us styles */
-#join-us {
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-#reasons {
-    margin: 5px 5px;
-    font-weight: 600;
-    align-self: center;
-}
-
-.text-boxes {
-    padding: 10px;
-    background-color: rgb(230, 230, 230);
-    box-shadow: 1.5px 1.5px;
-}
-
-#information {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 10px;
-    margin: 0px 10px;
-}
-
-/* For keeping text boxes at same size at different screen sizes */
-#description {
-    width: 400px;
-}
-
-#we-offer {
-    width: 400px;
-}
-
 
 /* Pictures page */
 #pictures {
