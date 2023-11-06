@@ -153,7 +153,7 @@ main {
 /* About styles */
 .center-heading {
     text-align: center;
-    margin: 10px 0 20px
+    margin: 10px 0 15px
 }
 
 #schedule {
@@ -173,10 +173,12 @@ main {
     background-color: rgb(230, 230, 230);
 }
 
+/* Maps */
 #location {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: -10px;
 }
 
 #maps {
@@ -278,7 +280,7 @@ main {
         margin-top: 75px;
     }
 
-    /* Information idex */
+    /* Information index */
     #reasons {
         min-width: 700px;
     }
