@@ -311,6 +311,10 @@ main {
         border-bottom: 1px solid gray;
     }
 
+    #click-me a:hover {
+        background-color: rgba(128, 128, 128, 0.5)
+    }
+
     /* Pictures */
     #pictures {
         column-count: 3;
