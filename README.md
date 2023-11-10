@@ -238,10 +238,10 @@ The remaining content was created by the developer, with the help of Code Instit
 | [Unsplash](https://unsplash.com/) | <https://unsplash.com/photos/three-person-lifting-barbels-Lx_GDv7VA9M> | image | hero image |
 | [Unsplash](https://unsplash.com/) | <https://unsplash.com/photos/people-doing-exercise-inside-gym-3eqaaqdL_IM> | image | sample gym photo |
 | [Unsplash](https://unsplash.com/) | <https://unsplash.com/photos/a-group-of-people-riding-stationary-bikes-in-a-gym-6FvUvDPsKV8> | image | sample gym photo |
-| [Pexels](https://www.pexels.com/) | https://www.pexels.com/sv-se/foto/man-manniskor-sport-klubb-703012/| image | sample gym photo |
-| [Pexels](https://www.pexels.com/) | https://www.pexels.com/sv-se/foto/hander-manniskor-ben-man-2261485/| image | sample gym photo |
-| [Pexels](https://www.pexels.com/) | https://www.pexels.com/sv-se/foto/man-kvinna-sport-kraft-6455806/| image | sample gym photo |
-| [Pexels](https://www.pexels.com/) | https://www.pexels.com/sv-se/foto/manniskor-ung-kondition-stretcha-6339352/| image | sample gym photo |
+| [Pexels](https://www.pexels.com/) | <https://www.pexels.com/sv-se/foto/man-manniskor-sport-klubb-703012/> | image | sample gym photo |
+| [Pexels](https://www.pexels.com/) | <https://www.pexels.com/sv-se/foto/hander-manniskor-ben-man-2261485/> | image | sample gym photo |
+| [Pexels](https://www.pexels.com/) | <https://www.pexels.com/sv-se/foto/man-kvinna-sport-kraft-6455806/> | image | sample gym photo |
+| [Pexels](https://www.pexels.com/) | <https://www.pexels.com/sv-se/foto/manniskor-ung-kondition-stretcha-6339352/> | image | sample gym photo |
 | [Fontawesome](https://fontawesome.com/) | entire site | image | fav- and footer icons |
 | [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
 
