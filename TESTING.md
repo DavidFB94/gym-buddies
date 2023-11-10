@@ -8,22 +8,6 @@ Return back to the [README.md](README.md) file.
 
 I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-- If you are copying/pasting your HTML code, use this link: <https://validator.w3.org/#validate_by_input>
-- (*recommended*) If you are using the live deployed site pages, use this link: <https://validator.w3.org/#validate_by_uri>
-
-It's recommended to validate the live pages (each of them) using the deployed URL.
-This will give you a custom URL as well, which you can use on your testing documentation.
-It makes it easier to return back to a page to validate it again in the future.
-The URL will look something like this:
-
-- <https://validator.w3.org/nu/?doc=https%3A%2F%2FDavidFB94.github.io%2Fproject-1-grouptraining%2Findex.html>
-
-Sample HTML code validation documentation (tables are extremely helpful!):
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
 | Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FDavidFB94.github.io%2Fproject-1-grouptraining%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
