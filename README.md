@@ -248,4 +248,4 @@ The remaining content was created by the developer, with the help of Code Instit
 ### Acknowledgements
 
 - I would like to thank my Code Institute mentors, [Tim Nelson](https://github.com/TravelTimN) and Luke Buchanan for their support throughout the development of this project.
-- I would like to thank my partner Maria for believing in me, and allowing me to make this transition into software development.
+- I would like to thank my wife Maria for believing in me, and allowing me to make this transition into software development.
