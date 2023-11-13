@@ -30,9 +30,9 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 | Browser | Home | About | Pictures | Sign-up | Confirmation | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![Chrome](https://raw.githubusercontent.com/TravelTimN/markdown-builder/main/assets/img/chrome.png) | ![screenshot](documentation/browser-chrome-home.png) | ![screenshot](documentation/browser-chrome-about.png) | ![screenshot](documentation/browser-chrome-contact.png) | ![screenshot](documentation/browser-chrome-etc.png) | ![screenshot](documentation/browser-edge-etc.png) | Works as expected |
-| ![Firefox](https://raw.githubusercontent.com/TravelTimN/markdown-builder/main/assets/img/firefox.png) | ![screenshot](documentation/browser-firefox-home.png) | ![screenshot](documentation/browser-firefox-about.png) | ![screenshot](documentation/browser-firefox-contact.png) | ![screenshot](documentation/browser-firefox-etc.png) | ![screenshot](documentation/browser-edge-etc.png) | Works as expected |
-| ![Edge](https://raw.githubusercontent.com/TravelTimN/markdown-builder/main/assets/img/edge.png) | ![screenshot](documentation/browser-edge-home.png) | ![screenshot](documentation/browser-edge-about.png) | ![screenshot](documentation/browser-chrome-edge.png) | ![screenshot](documentation/browser-edge-etc.png) | ![screenshot](documentation/browser-edge-etc.png) | Works as expected |
+| Google Chrome | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/chrome-about.png) | ![screenshot](documentation/browsers/chrome-pictures.png) | ![screenshot](documentation/browsers/chrome-signup.pgn) | ![screenshot](documentation/browsers/chrome-confirmation.png) | Works as expected |
+| Firefox Developer Edition | ![screenshot](documentation/browsers/firefoxdev-home.png) | ![screenshot](documentation/browsers/firefoxdev-about.png) | ![screenshot](documentation/browsers/firefoxdev-pictures.png) | ![screenshot](documentation/browsers/firefoxdev-signup.png) | ![screenshot](documentation/browsers/firefoxdev-confirmation.png) | Works as expected |
+| Microsoft Edge | ![screenshot](documentation/browsers/msedge-home.png) | ![screenshot](documentation/browsers/msedge-about.png) | ![screenshot](documentation/browsers/msedge-pictures.png) | ![screenshot](documentation/browsers/msedge-signup.png) | ![screenshot](documentation/browsers/msedge-confirmation.png) | Works as expected |
 
 ## Responsiveness
 
