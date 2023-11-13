@@ -10,7 +10,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Findex.html) | ![screenshot](documentation/validation/html-validation-home.png) | Section lacks header h2-h6 warning |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Findex.html) | ![screenshot](documentation/validation/html-validation-index.png) | Section lacks header h2-h6 warning |
 | About | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Fabout.html) | ![screenshot](documentation/validation/html-validation-about.png) | Pass: No Errors|
 | Pictures| [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Fpictures.html) | ![screenshot](documentation/validation/html-validation-pictures.png) | Pass: No Errors |
 | Sign-up | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Fsign-up.html) | ![screenshot](documentation/validation/html-validation-signup.png) | End tag with open element, unclosed element, stray div. Fixed.|
