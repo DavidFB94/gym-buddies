@@ -228,6 +228,14 @@ main {
     box-shadow: 1px 1px;
 }
 
+/* Confirmation styles */
+#confirmation {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 20px;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
