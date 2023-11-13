@@ -10,11 +10,11 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 
 | Page | W3C URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FDavidFB94.github.io%2Fproject-1-grouptraining%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
-| About | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FDavidFB94.github.io%2Fproject-1-grouptraining%2Fabout.html) | ![screenshot](documentation/html-validation-about.png) | Pass: No Errors|
-| Pictures| [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FDavidFB94.github.io%2Fproject-1-grouptraining%2Fpictures.html) | ![screenshot](documentation/html-validation-pictures.png) | Pass: No Errors |
-| Sign-up | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FDavidFB94.github.io%2Fproject-1-grouptraining%2Fsign-up.html) | ![screenshot](documentation/html-validation-add-blog.png) | End tag with open element, unclosed element, stray div. Fixed.|
-| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2FDavidFB94.github.io%2Fproject-1-grouptraining%2Fsign-up.html) | ![screenshot](documentation/html-validation-add-blog.png) | |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Findex.html) | ![screenshot](documentation/html-validation-home.png) | Section lacks header h2-h6 warning |
+| About | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Fabout.html) | ![screenshot](documentation/html-validation-about.png) | Pass: No Errors|
+| Pictures| [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Fpictures.html) | ![screenshot](documentation/html-validation-pictures.png) | Pass: No Errors |
+| Sign-up | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Fsign-up.html) | ![screenshot](documentation/html-validation-signup.png) | End tag with open element, unclosed element, stray div. Fixed.|
+| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2Fconfirmation.html%3Ff-name%3DTesting%26l-name%3DTesting%26email%3Dtesting%2540testing.com) | ![screenshot](documentation/html-validation-confirmation.png) | Section lacks header h2-h6 warning |
 
 ### CSS
 
@@ -22,7 +22,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2FDavidFB94.github.io%2Fproject-1-grouptraining) | ![screenshot](documentation/css-validation-style.png) | Pass: No Errors |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdavidfb94.github.io%2Fproject-1-grouptraining%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![screenshot](documentation/css-validator.png) | Pass: No Errors |
 
 ## Browser Compatibility
 
