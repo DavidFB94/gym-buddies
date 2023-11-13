@@ -226,10 +226,10 @@ The remaining content was created by the developer, with the help of Code Instit
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-| [W3Schools](https://www.w3schools.com/) | entire site | how to position elements and flex-box usage |
-| [StackOverflow](https://stackoverflow.com/) | entire site | how to position elements and flex-box usage |
-| [ui.dev](https://ui.dev/) | <https://ui.dev/amiresponsive> | used to create mock-up images |
-| [Stackedit](https://stackedit.io/) | entire site | Markdown editor |
+| [W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) | entire site | flex-box usage |
+| [StackOverflow](https://stackoverflow.com/questions/10426497/position-relative-vs-absolute) | entire site | how to position elements |
+| [ui.dev](https://ui.dev/amiresponsive) | README | used to create mock-up images |
+| [Stackedit](https://stackedit.io/) | README and TESTING | Markdown editor |
 
 ### Media
 
@@ -238,12 +238,19 @@ The remaining content was created by the developer, with the help of Code Instit
 | [Unsplash](https://unsplash.com/photos/three-person-lifting-barbels-Lx_GDv7VA9M) | home / signup | image | hero image |
 | [Unsplash](https://unsplash.com/photos/people-doing-exercise-inside-gym-3eqaaqdL_IM) | pictures  | image | sample gym photo |
 | [Unsplash](https://unsplash.com/photos/a-group-of-people-riding-stationary-bikes-in-a-gym-6FvUvDPsKV8) | pictures | image | sample gym photo |
+| [Unsplash](https://unsplash.com/photos/grayscale-basketball-players-UFIZodJgScQ) | pictures | image | sample gym photo |
+| [Unsplash](https://unsplash.com/photos/a-group-of-people-playing-basketball-ZKFNj-Hc2Q0) | pictures | image | sample gym photo |
+| [Unsplash](https://unsplash.com/photos/man-in-green-shorts-lying-on-black-and-white-bed-4QXEY3obzP8) | pictures | image | sample gym photo |
+| [Unsplash](https://unsplash.com/photos/woman-in-pink-long-sleeve-shirt-and-black-pants-holding-black-kettle-bell-9D_rUDe7xvA) | pictures | image | sample gym photo |
+| [Unsplash](https://unsplash.com/photos/man-in-black-t-shirt-and-red-shorts-standing-on-green-floor-tkVwhG6yqKo) | pictures | image | sample gym photo |
+| [Unsplash](https://unsplash.com/photos/a-group-of-young-people-playing-a-game-of-basketball-POrGsXA503s) | pictures | image | sample gym photo |
 | [Pexels](https://www.pexels.com/sv-se/foto/man-manniskor-sport-klubb-703012) | pictures  | image | sample gym photo |
 | [Pexels](https://www.pexels.com/sv-se/foto/hander-manniskor-ben-man-2261485) | pictures  | image | sample gym photo |
 | [Pexels](https://www.pexels.com/sv-se/foto/man-kvinna-sport-kraft-6455806) | pictures  | image | sample gym photo |
 | [Pexels](https://www.pexels.com/sv-se/foto/manniskor-ung-kondition-stretcha-6339352) | pictures | image | sample gym photo |
 | [Fontawesome](https://fontawesome.com/) | entire site | image | fav- and footer icons |
 | [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| [Pixelied](https://pixelied.com/convert/png-converter/png-to-webp) | pictures | image | format converter |
 
 ### Acknowledgements
 
