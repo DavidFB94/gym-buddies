@@ -13,7 +13,7 @@ This page is meant to work as a notice board. This is where potential customers 
 
 ### Mock-up
 
-![screenshot](documentation/screenshots-readme/mockup.png)
+![screenshot](documentation/mockup.png)
 
 ## UX
 
@@ -32,7 +32,7 @@ I based my colors around the hero image. Since it is black and white, I want to 
 
 I used [coolors.co](https://coolors.co/f5f5f5-e6e6e6-a52a2a-000000-ffffff) to generate my colour palette.
 
-![screenshot](documentation/screenshots-readme/color-palette.png)
+![screenshot](documentation/color-palette.png)
 
 ### Typography
 
@@ -55,15 +55,15 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 Home
 
-- ![screenshot](documentation/screenshots-readme/wireframes-mobile-home.png)
+- ![screenshot](documentation/wireframes/wireframes-mobile-home.png)
 
 Pictures
 
-- ![screenshot](documentation/screenshots-readme/wireframes-mobile-pictures.png)
+- ![screenshot](documentation/wireframes/wireframes-mobile-pictures.png)
 
 Sign-up
 
-- ![screenshot](documentation/screenshots-readme/wireframes-mobile-signup.png)
+- ![screenshot](documentation/wireframes/wireframes-mobile-signup.png)
 
 </details>
 
@@ -74,15 +74,15 @@ Sign-up
 
 Home
 
-- ![screenshot](documentation/screenshots-readme/wireframes-desktop-home.png)
+- ![screenshot](documentation/wireframes/wireframes-desktop-home.png)
 
 Pictures
 
-- ![screenshot](documentation/screenshots-readme/wireframes-desktop-pictures.png)
+- ![screenshot](documentation/wireframes/wireframes-desktop-pictures.png)
 
 Sign-up
 
-- ![screenshot](documentation/screenshots-readme/wireframes-desktop-signup.png)
+- ![screenshot](documentation/wireframes/wireframes-desktop-signup.png)
 
 </details>
 
@@ -94,55 +94,55 @@ Sign-up
 
   - Adds maneuverability to the site, and makes it faster for the user to navigate to the home screen on mobile (less clicks when not using the drop-down navigation)
 
-![screenshot](documentation/screenshots-readme/feature01.png)
+![screenshot](documentation/features/feature01.png)
 
 - **Navigation bar with toggle for smaller screens**
 
   - Adds maneuverability to the site, and makes it easier for the user to navigate the website on mobile, while also saving screen space.
 
-![screenshot](documentation/screenshots-readme/feature02.png)
+![screenshot](documentation/features/feature02.png)
 
 - **I am interested - button**
 
   - For guidance to the about section. It will take a potential customer to the about section in an intuitive way, where they can find relevant information for deciding if this is a product they would be interested in.
 
-![screenshot](documentation/screenshots-readme/feature03.png)
+![screenshot](documentation/features/feature03.png)
 
 - **Weekly schedule section**
 
   - Allows the fitness-center to show the customers the available activities for the week, and when they will happen. The schedule gets updated on a week to week basis.
 
-![screenshot](documentation/screenshots-readme/feature04.png)
+![screenshot](documentation/features/feature04.png)
 
 - **Description section**
 
   - Allows the fitness-center to give a short description on who they are, and what activities they offer to their enrolled customers.
 
-![screenshot](documentation/screenshots-readme/feature05.png)
+![screenshot](documentation/features/feature05.png)
 
 - **Contact section**
 
   - Allows the fitness-center to make their contact information easy to find, in case a customer needs to get in touch with them.
 
-![screenshot](documentation/screenshots-readme/feature06.png)
+![screenshot](documentation/features/feature06.png)
 
 - **Embedded map section**
 
   - Clickable "more options" to open google directions in a new tab for easy navigation to the fitness-center.
 
-![screenshot](documentation/screenshots-readme/feature07.png)
+![screenshot](documentation/features/feature07.png)
 
 - **Pictures page**
 
   - Allows the fitness-center to show customer some examples of what they can expect while attending the different activities. Based on screen size, the page will display the pictures in 1-3 columns.
 
-![screenshot](documentation/screenshots-readme/feature08.png)
+![screenshot](documentation/features/feature08.png)
 
 - **Sign-up form with validation page**
 
   - Allows the potential customer to sign up in a quick and intuitive way. Allows the fitness-center to quickly reach out to the customer. The form includes input validation, to ensure that the correct type of input is used, and every input field is filled in.
 
-![screenshot](documentation/screenshots-readme/feature09.png)
+![screenshot](documentation/features/feature09.png)
 
 ### Future Features
 
@@ -235,13 +235,13 @@ The remaining content was created by the developer, with the help of Code Instit
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Unsplash](https://unsplash.com/) | <https://unsplash.com/photos/three-person-lifting-barbels-Lx_GDv7VA9M> | image | hero image |
-| [Unsplash](https://unsplash.com/) | <https://unsplash.com/photos/people-doing-exercise-inside-gym-3eqaaqdL_IM> | image | sample gym photo |
-| [Unsplash](https://unsplash.com/) | <https://unsplash.com/photos/a-group-of-people-riding-stationary-bikes-in-a-gym-6FvUvDPsKV8> | image | sample gym photo |
-| [Pexels](https://www.pexels.com/) | <https://www.pexels.com/sv-se/foto/man-manniskor-sport-klubb-703012/> | image | sample gym photo |
-| [Pexels](https://www.pexels.com/) | <https://www.pexels.com/sv-se/foto/hander-manniskor-ben-man-2261485/> | image | sample gym photo |
-| [Pexels](https://www.pexels.com/) | <https://www.pexels.com/sv-se/foto/man-kvinna-sport-kraft-6455806/> | image | sample gym photo |
-| [Pexels](https://www.pexels.com/) | <https://www.pexels.com/sv-se/foto/manniskor-ung-kondition-stretcha-6339352/> | image | sample gym photo |
+| [Unsplash](https://unsplash.com/photos/three-person-lifting-barbels-Lx_GDv7VA9M) | home / signup | image | hero image |
+| [Unsplash](https://unsplash.com/photos/people-doing-exercise-inside-gym-3eqaaqdL_IM) | pictures  | image | sample gym photo |
+| [Unsplash](https://unsplash.com/photos/a-group-of-people-riding-stationary-bikes-in-a-gym-6FvUvDPsKV8) | pictures | image | sample gym photo |
+| [Pexels](https://www.pexels.com/sv-se/foto/man-manniskor-sport-klubb-703012) | pictures  | image | sample gym photo |
+| [Pexels](https://www.pexels.com/sv-se/foto/hander-manniskor-ben-man-2261485) | pictures  | image | sample gym photo |
+| [Pexels](https://www.pexels.com/sv-se/foto/man-kvinna-sport-kraft-6455806) | pictures  | image | sample gym photo |
+| [Pexels](https://www.pexels.com/sv-se/foto/manniskor-ung-kondition-stretcha-6339352) | pictures | image | sample gym photo |
 | [Fontawesome](https://fontawesome.com/) | entire site | image | fav- and footer icons |
 | [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
 
