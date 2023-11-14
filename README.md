@@ -9,7 +9,7 @@ GymBuddies is a web-page for a potential fitness-center in Stockholm City.
 
 This page is meant to work as a notice board. This is where potential customers get their first look, where they can go to learn about what the center has to offer, contact information, how to find it, and to sign up. It also serves as a place where already enrolled customers can find the weekly schedule for the centers different activities.
 
-""This website was built as a project for Diploma in Full Stack Software Development at Code Institute.""
+This website was built as a project for the Diploma in Full Stack Software Development at Code Institute.
 
 ### Mock-up
 
@@ -19,9 +19,9 @@ This page is meant to work as a notice board. This is where potential customers 
 
 I started out with Wireframes for both desktop and phone.
 
-I realized quickly that my idea to have text over images would make it difficult to read, so I changed the plan, and had the hero image displayed at the top, and text content beneath it.
+I realized quickly that my idea to have text on top of the hero image would make it difficult to read, so I changed the plan, and had the hero image displayed at the top, and text content beneath it.
 
-After creating the basic structure for the different pages, the site felt a bit lackluster. I added the "About" page to add more features to the site, and moved some text content from the home page. The home page became more of a font/welcome page.
+After creating the basic structure for the different pages, the site felt a bit lackluster. I added the "About" page to add more features to the site, and moved some text content from the home page. The home page became more of a front/welcome page instead.
 
 ### Colour Scheme
 
@@ -144,6 +144,12 @@ Sign-up
 
 ![screenshot](documentation/features/feature09.png)
 
+- **Sign-up confirmation with redirect**
+
+  - Returns feedback to the user that their form has been submitted. It also auto-redirects the user back to the home page.
+
+![screenshot](documentation/features/feature10.png)
+
 ### Future Features
 
 - Calendar with booking-functionality (in new page)
@@ -228,7 +234,7 @@ The remaining content was created by the developer, with the help of Code Instit
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
 | [W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) | entire site | flex-box usage |
 | [StackOverflow](https://stackoverflow.com/questions/10426497/position-relative-vs-absolute) | entire site | how to position elements |
-| [ui.dev](https://ui.dev/amiresponsive) | README | used to create mock-up images |
+| [Ui.dev](https://ui.dev/amiresponsive) | README | used to create mock-up images |
 | [Stackedit](https://stackedit.io/) | README and TESTING | Markdown editor |
 
 ### Media
