@@ -30,7 +30,7 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 | Browser | Home | About | Pictures | Sign-up | Confirmation | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Google Chrome | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/chrome-about.png) | ![screenshot](documentation/browsers/chrome-pictures.png) | ![screenshot](documentation/browsers/chrome-signup.pgn) | ![screenshot](documentation/browsers/chrome-confirmation.png) | Works as expected |
+| Google Chrome | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/chrome-about.png) | ![screenshot](documentation/browsers/chrome-pictures.png) | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/chrome-confirmation.png) | Works as expected |
 | Firefox Developer Edition | ![screenshot](documentation/browsers/firefoxdev-home.png) | ![screenshot](documentation/browsers/firefoxdev-about.png) | ![screenshot](documentation/browsers/firefoxdev-pictures.png) | ![screenshot](documentation/browsers/firefoxdev-signup.png) | ![screenshot](documentation/browsers/firefoxdev-confirmation.png) | Works as expected |
 | Microsoft Edge | ![screenshot](documentation/browsers/msedge-home.png) | ![screenshot](documentation/browsers/msedge-about.png) | ![screenshot](documentation/browsers/msedge-pictures.png) | ![screenshot](documentation/browsers/msedge-signup.png) | ![screenshot](documentation/browsers/msedge-confirmation.png) | Works as expected |
 
@@ -40,10 +40,10 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 | Device | Home | About | Pictures | Sign-up | Corfirmation | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsive-mobile-home.png) | ![screenshot](documentation/responsive-mobile-about.png) | ![screenshot](documentation/responsive-mobile-contact.png) | ![screenshot](documentation/responsive-mobile-etc.png) | ![screenshot](documentation/responsive-xl-etc.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsive-tablet-home.png) | ![screenshot](documentation/responsive-tablet-about.png) | ![screenshot](documentation/responsive-tablet-contact.png) | ![screenshot](documentation/responsive-tablet-etc.png) | ![screenshot](documentation/responsive-xl-etc.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsive-desktop-home.png) | ![screenshot](documentation/responsive-desktop-about.png) | ![screenshot](documentation/responsive-desktop-contact.png) | ![screenshot](documentation/responsive-desktop-etc.png) | ![screenshot](documentation/responsive-xl-etc.png) | Works as expected |
-| Sony Xperia 10 | ![screenshot](documentation/responsive-xl-home.png) | ![screenshot](documentation/responsive-xl-about.png) | ![screenshot](documentation/responsive-xl-contact.png) | ![screenshot](documentation/responsive-xl-etc.png) | ![screenshot](documentation/responsive-xl-etc.png) | Works as expected |
+| Mobile (DevTools) | ![screenshot](documentation/responsivness/mobile-home.png) | ![screenshot](documentation/responsivness/mobile-about.png) | ![screenshot](documentation/responsivness/mobile-pictures.png) | ![screenshot](documentation/responsivness/mobile-signup.png) | ![screenshot](documentation/responsivness/mobile-confirmation.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/responsivness/tablet-home.png) | ![screenshot](documentation/responsivness/tablet-about.png) | ![screenshot](documentation/responsivness/tablet-pictures.png) | ![screenshot](documentation/responsivness/tablet-signup.png) | ![screenshot](documentation/responsivness/tablet-confirmation.png) | Works as expected |
+| Desktop | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/chrome-about.png) | ![screenshot](documentation/browsers/chrome-pictures.png) | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/chrome-confirmation.png) | Works as expected |
+| Sony Xperia 10 | ![screenshot](documentation/responsivness/xperia-home.jpg) | ![screenshot](documentation/responsivness/xperia-about.jpg) | ![screenshot](documentation/responsivness/xperia-pictures.jpg) | ![screenshot](documentation/responsivness/xperia-signup.jpg) | ![screenshot](documentation/responsivness/xperia-confirmation.jpg) | Works as expected |
 
 ## Lighthouse Audit
 
