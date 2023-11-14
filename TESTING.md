@@ -59,22 +59,22 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Bugs
 
-- : `-----`
+- : `Background and foreground colors do not have sufficient contrast ratio`
 
     ![screenshot](documentation/bug01.png)
 
-  - To fix this, I _____________________.
+  - To fix this, I modified the color slightly, and increased the font weight.
 
 ## Unfixed Bugs
 
 - On screens smaller than 260px, the text in the form no longer aligns correctly, and moves outside of the background box.
 
-    ![screenshot](documentation/unfixed-bug01.png)
+    ![screenshot](documentation/)
 
   - Attempted fix:
 
 - On screens smaller than 170px, the content stops filling the screen width properly.
 
-    ![screenshot](documentation/unfixed-bug02.png)
+    ![screenshot](documentation/)
 
   - Attempted fix:
