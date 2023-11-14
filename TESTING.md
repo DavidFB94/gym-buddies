@@ -38,7 +38,7 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device | Home | About | Pictures | Sign-up | Corfirmation | Notes |
+| Device | Home | About | Pictures | Sign-up | Confirmation | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | Mobile (DevTools) | ![screenshot](documentation/responsivness/mobile-home.png) | ![screenshot](documentation/responsivness/mobile-about.png) | ![screenshot](documentation/responsivness/mobile-pictures.png) | ![screenshot](documentation/responsivness/mobile-signup.png) | ![screenshot](documentation/responsivness/mobile-confirmation.png) | Works as expected |
 | Tablet (DevTools) | ![screenshot](documentation/responsivness/tablet-home.png) | ![screenshot](documentation/responsivness/tablet-about.png) | ![screenshot](documentation/responsivness/tablet-pictures.png) | ![screenshot](documentation/responsivness/tablet-signup.png) | ![screenshot](documentation/responsivness/tablet-confirmation.png) | Works as expected |
@@ -51,11 +51,11 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop | Notes |
 | --- | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse-home-mobile.png) | ![screenshot](documentation/lighthouse-home-desktop.png) | Some minor warnings |
-| About | ![screenshot](documentation/lighthouse-about-mobile.png) | ![screenshot](documentation/lighthouse-about-desktop.png) | Some minor warnings |
-| Pictures| ![screenshot](documentation/lighthouse-gallery-mobile.png) | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images. Fixed. |
-| Sign-up| ![screenshot](documentation/lighthouse-gallery-mobile.png) | ![screenshot](documentation/lighthouse-gallery-desktop.png) |  |
-| Confirmation| ![screenshot](documentation/lighthouse-gallery-mobile.png) | ![screenshot](documentation/lighthouse-gallery-desktop.png) |  |
+| Home | ![screenshot](documentation/lighthouse/lighthouse-mobile-home.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-home.png) | Some minor warnings |
+| About | ![screenshot](documentation/lighthouse/lighthouse-mobile-about.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-about.png) | Some minor warnings |
+| Pictures| ![screenshot](documentation/lighthouse/lighthouse-mobile-pictures.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-pictures.png) |  |
+| Sign-up| ![screenshot](documentation/lighthouse/lighthouse-mobile-signup.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-signup.png) | Some minor warnings |
+| Confirmation| ![screenshot](documentation/lighthouse/lighthouse-mobile-confirmation.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-confirmation.png) | Some minor warnings. Accessibility fixed. |
 
 ## Bugs
 
