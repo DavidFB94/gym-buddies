@@ -40,10 +40,10 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 | Device | Home | About | Pictures | Sign-up | Confirmation | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsivness/mobile-home.png) | ![screenshot](documentation/responsivness/mobile-about.png) | ![screenshot](documentation/responsivness/mobile-pictures.png) | ![screenshot](documentation/responsivness/mobile-signup.png) | ![screenshot](documentation/responsivness/mobile-confirmation.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsivness/tablet-home.png) | ![screenshot](documentation/responsivness/tablet-about.png) | ![screenshot](documentation/responsivness/tablet-pictures.png) | ![screenshot](documentation/responsivness/tablet-signup.png) | ![screenshot](documentation/responsivness/tablet-confirmation.png) | Works as expected |
+| Mobile (DevTools) | ![screenshot](documentation/responsiveness/mobile-home.png) | ![screenshot](documentation/responsiveness/mobile-about.png) | ![screenshot](documentation/responsiveness/mobile-pictures.png) | ![screenshot](documentation/responsiveness/mobile-signup.png) | ![screenshot](documentation/responsiveness/mobile-confirmation.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/responsiveness/tablet-home.png) | ![screenshot](documentation/responsiveness/tablet-about.png) | ![screenshot](documentation/responsiveness/tablet-pictures.png) | ![screenshot](documentation/responsiveness/tablet-signup.png) | ![screenshot](documentation/responsiveness/tablet-confirmation.png) | Works as expected |
 | Desktop | ![screenshot](documentation/browsers/chrome-home.png) | ![screenshot](documentation/browsers/chrome-about.png) | ![screenshot](documentation/browsers/chrome-pictures.png) | ![screenshot](documentation/browsers/chrome-signup.png) | ![screenshot](documentation/browsers/chrome-confirmation.png) | Works as expected |
-| Sony Xperia 10 | ![screenshot](documentation/responsivness/xperia-home.jpg) | ![screenshot](documentation/responsivness/xperia-about.jpg) | ![screenshot](documentation/responsivness/xperia-pictures.jpg) | ![screenshot](documentation/responsivness/xperia-signup.jpg) | ![screenshot](documentation/responsivness/xperia-confirmation.jpg) | Works as expected |
+| Sony Xperia 10 | ![screenshot](documentation/responsiveness/xperia-home.jpg) | ![screenshot](documentation/responsiveness/xperia-about.jpg) | ![screenshot](documentation/responsiveness/xperia-pictures.jpg) | ![screenshot](documentation/responsiveness/xperia-signup.jpg) | ![screenshot](documentation/responsiveness/xperia-confirmation.jpg) | Works as expected |
 
 ## Lighthouse Audit
 
