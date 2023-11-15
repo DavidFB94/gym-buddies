@@ -53,7 +53,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | --- | --- | --- | --- |
 | Home | ![screenshot](documentation/lighthouse/lighthouse-mobile-home.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-home.png) | Some minor warnings |
 | About | ![screenshot](documentation/lighthouse/lighthouse-mobile-about.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-about.png) | Some minor warnings |
-| Pictures| ![screenshot](documentation/lighthouse/lighthouse-mobile-pictures.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-pictures.png) |  |
+| Pictures| ![screenshot](documentation/lighthouse/lighthouse-mobile-pictures.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-pictures.png) | Warning for image file sizes. Attempted fix: Image compression and format change. |
 | Sign-up| ![screenshot](documentation/lighthouse/lighthouse-mobile-signup.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-signup.png) | Some minor warnings |
 | Confirmation| ![screenshot](documentation/lighthouse/lighthouse-mobile-confirmation.png) | ![screenshot](documentation/lighthouse/lighthouse-desktop-confirmation.png) | Some minor warnings. Accessibility fixed. |
 
@@ -67,14 +67,5 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Unfixed Bugs
 
-- On screens smaller than 260px, the text in the form no longer aligns correctly, and moves outside of the background box.
-
-    ![screenshot](documentation/)
-
-  - Attempted fix:
-
-- On screens smaller than 170px, the content stops filling the screen width properly.
-
-    ![screenshot](documentation/)
-
-  - Attempted fix:
+- There are no remaining bugs that I am aware of.
+  
