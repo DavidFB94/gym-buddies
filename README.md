@@ -7,7 +7,9 @@
 
 GymBuddies is a web-page for a potential fitness-center in Stockholm City.
 
-This page is meant to work as a notice board. This is where potential customers get their first look, where they can go to learn about what the center has to offer, contact information, how to find it, and to sign up. It also serves as a place where already enrolled customers can find the weekly schedule for the centers different activities.
+This is where potential customers get their first look, and where the center can advertise themselves to the public.
+
+Here, the user can learn about what the center has to offer. They can find contact information, how to find the center, sample images of the activities, and to sign up online. It also serves as a place where already enrolled customers can find the weekly schedule for the centers different activities.
 
 This website was built as a project for the Diploma in Full Stack Software Development at Code Institute.
 
@@ -25,7 +27,7 @@ After creating the basic structure for the different pages, the site felt a bit 
 
 ### Colour Scheme
 
-I based my colors around the hero image. Since it is black and white, I want to keep the colors simple, but still add enough contrast and variation for readability. I was going for a clean and simple look.
+I based my colors around the hero image. Since it is black and white, I wanted to keep the colors simple, but still add enough contrast and variation for readability. I was going for a clean and simple look.
 
 - `#A52A2a` used for primary text.
 - `#000000` used for secondary text.
